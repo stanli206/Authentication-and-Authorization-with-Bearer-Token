@@ -10,7 +10,7 @@ const port = process.env.PORT || 5001;
 app.use(express.json());
 connectDB();
 
-app.use("/api/user", userRouter);
+app.use("/api/auth", userRouter);
 
 app.listen(port, () => {
   console.log(`server is running on port ${port}`);
