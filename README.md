@@ -40,7 +40,7 @@ A simple and secure **Node.js** application for user authentication and authoriz
 - **Backend**: ![Node.js](https://img.shields.io/badge/Node.js-v20.x-green?logo=node.js) ![Express.js](https://img.shields.io/badge/Express.js-v4.x-lightgrey?logo=express)
 - **Database**: ![MongoDB](https://img.shields.io/badge/MongoDB-v7.x-blue?logo=mongodb)
 - **Authentication**: ![JWT](https://img.shields.io/badge/JWT-v9.x-yellow?logo=json-web-tokens)
-- **Password Hashing**: ![bcryptjs](https://img.shields.io/badge/bcryptjs-v2.x-blue)
+- **Password Hashing**: ![bcrypt](https://img.shields.io/badge/bcryptjs-v2.x-blue)
 - **Environment Management**: ![dotenv](https://img.shields.io/badge/dotenv-v16.x-green)
 - **API Testing**: ![Postman](https://img.shields.io/badge/Postman-v10.x-orange?logo=postman)
 
